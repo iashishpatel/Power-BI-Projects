@@ -7,11 +7,11 @@ Open the .pbix file in PowerBI Desktop to access the report.
 Connect to the data source(s) by following the prompts in PowerBI.
 Explore the report and customize it to fit your needs.
 
-#### Data Sources
+- #### Data Sources
 The data used in this report is sourced from [example data source]. Additional data cleaning and transformation may be required to fit your specific use case.
 
-#### Contributing
+- #### Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-#### Support
+- #### Support
 If you have any questions or issues, please open an issue in this repository.
