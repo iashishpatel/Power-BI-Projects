@@ -34,3 +34,6 @@ If you have any suggestions or find any bugs, please open an issue on the GitHub
 ### Disclaimer
 The dashboard is for informational purposes only and should not be used for medical diagnosis or treatment.
 Please consult a healthcare professional for professional medical advice.
+
+![giphy (1)](https://user-images.githubusercontent.com/85991377/215325170-ccc24fba-9f7a-4347-8e0b-7d5fd3a076f4.gif)
+
