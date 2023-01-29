@@ -11,3 +11,23 @@ A COVID-19 data analysis dashboard allows users to view and analyze data related
 - Filter and sort options for data analysis
 - Heat maps for visualizing spread across regions
 - Overview of global and regional statistics
+
+
+### Requirements
+- PowerBI Desktop software
+- Internet connection to fetch real-time data
+
+### Usage
+- 1.Download the PowerBI Desktop software from the Microsoft website.
+- 2.Clone or download the repository from GitHub.
+- 3.Open the .pbix file in PowerBI Desktop.
+- 4.Connect to the data source and refresh the data.
+- 5.Start exploring the dashboard and its features.
+
+### Contributions
+This dashboard is an open-source project and contributions are welcome. 
+If you have any suggestions or find any bugs, please open an issue on the GitHub repository.
+
+### Disclaimer
+The dashboard is for informational purposes only and should not be used for medical diagnosis or treatment.
+Please consult a healthcare professional for professional medical advice.
